@@ -45,3 +45,7 @@ React router with /cards as a separate route
 ## Build
 
 Webpack to build and chunk out different routes for performance, separate chunk for react and other libraries
+
+## Data Fetching
+
+Added a mock useApi hook that delays data fetching from mock.ts by 3 seconds to simulate API fetching.
