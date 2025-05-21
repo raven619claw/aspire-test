@@ -49,3 +49,5 @@ Webpack to build and chunk out different routes for performance, separate chunk 
 ## Data Fetching
 
 Added a mock useApi hook that delays data fetching from mock.ts by 3 seconds to simulate API fetching.
+
+Used react hook for calling apis as soon as components are rendered, and also refetch support on data changes.
