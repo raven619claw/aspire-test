@@ -34,7 +34,9 @@ Using zustand as the global state library, cleaner and simpler to use shared sta
 
 ## Styling
 
-Used styled componennts
+Used styled componennts.
+
+Created a generic theme object, jsut using it for colors but can be extended.
 
 ## Routing
 
